@@ -1,7 +1,6 @@
 ## eCaptcha
-<p align="center">
-  <img src="https://i.redd.it/tnld76wp34z71.png" title="discord-captcha">
-</p>
+![alt text]([http://url/to/img.png](https://i.redd.it/tnld76wp34z71.png))
+
 # What is eCaptcha
 eCaptcha is a AI learning model focused on solving hCaptcha located on discord.com
 
