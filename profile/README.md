@@ -1,6 +1,6 @@
 # Welcome to eCaptcha
 <p align="center">
-  <img src="tnld76wp34z71.png">
+  <img src="profile/tnld76wp34z71.png">
 </p>
 
 ## What is eCaptcha
