@@ -1,5 +1,5 @@
 ## eCaptcha
-![discord-captcha](.github/profile/tnld76wp34z71.png)
+![discord-captcha](tnld76wp34z71.png)
 
 # What is eCaptcha
 eCaptcha is a AI learning model focused on solving hCaptcha located on discord.com
