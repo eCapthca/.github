@@ -1,5 +1,7 @@
 ## eCaptcha
-![discord-captcha](tnld76wp34z71.png)
+<center>
+    <img src="tnld76wp34z71.png">
+</center>
 
 # What is eCaptcha
 eCaptcha is a AI learning model focused on solving hCaptcha located on discord.com
