@@ -4,7 +4,7 @@
 </p>
 
 ## What is eCaptcha
-eCaptcha is a AI learning model focused on solving hCaptcha located on discord.com
+eCaptcha is a AI learning model focused on solving hCaptcha on discord.com
 
 
 ## Repositories
