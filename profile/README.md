@@ -1,7 +1,7 @@
 ## eCaptcha
-<center>
-    <img src="tnld76wp34z71.png">
-</center>
+<p align="center">
+  <img src="tnld76wp34z71.png">
+</p>
 
 # What is eCaptcha
 eCaptcha is a AI learning model focused on solving hCaptcha located on discord.com
