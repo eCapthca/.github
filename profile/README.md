@@ -13,4 +13,6 @@ Within the organization, you'll see the eCaptchaAPI, our main api, which users c
 
 We will also have the eCaptchaModel which will solve the captcha using Tensorflow. 
 
+Our third repository is a sample program which can generate tokens numerous times, using our captcha solver.
+
 These microservices will communicate with each other using a local RESTful API created on flask.
